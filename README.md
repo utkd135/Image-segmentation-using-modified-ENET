@@ -1,6 +1,6 @@
 # Image-segmentation-using-modified-ENET
 ### I have implemented this from the research paper https://arxiv.org/pdf/1606.02147.pdf
-### Model attained the accuracy of 94.06 and Dice score of 89.17% after training for 1 epoch
+### Model attained the accuracy of 94.06 and Dice score of 0.89 after training for 1 epoch
 ### I will improve the neural network and train for more epochs and then upload the model file again.
 ### 
 ### Acknoledgement for dataset
